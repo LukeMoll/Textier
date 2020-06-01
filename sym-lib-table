@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name PyPad_Symbols)(type Legacy)(uri ${KIPRJMOD}/Symbols/PyPad_Symbols.lib)(options "")(descr ""))
-)

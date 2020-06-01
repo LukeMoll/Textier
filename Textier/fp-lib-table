@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PyPad_Footprints)(type KiCad)(uri ${KIPRJMOD}/../Libraries/Footprints.pretty)(options "")(descr ""))
+)
