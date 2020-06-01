@@ -204,7 +204,7 @@ U 1 1 5ED79AF1
 P 9350 2600
 F 0 "SW1" H 9350 2233 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 9350 2324 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 9200 2760 50  0001 C CNN
+F 2 "PyPad_Footprints:RotaryEncoder_Bourns_PEC16-4-Switch_Vertical_H20mm" H 9200 2760 50  0001 C CNN
 F 3 "~" H 9350 2860 50  0001 C CNN
 	1    9350 2600
 	1    0    0    1   
